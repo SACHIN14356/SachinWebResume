@@ -2,7 +2,7 @@
 
 Welcome to my handcrafted personal resume website – a fully responsive, modern web resume built using **HTML**, **CSS**, and **JavaScript**. This project is designed not just to showcase my professional profile, but also to reflect my attention to detail and front-end development skills.
 
-🔗 **[Live Demo](https://your-live-demo-link.com)**  
+🔗 **[Live Demo](http://sachinwebresume.netlify.app)**
 
 ---
 
