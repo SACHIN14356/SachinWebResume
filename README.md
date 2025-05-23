@@ -27,5 +27,5 @@ Welcome to my handcrafted personal resume website – a fully responsive, modern
 
 ---
 
-## 📁 Folder Structure
+
 
