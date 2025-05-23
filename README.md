@@ -13,9 +13,6 @@ Welcome to my handcrafted personal resume website – a fully responsive, modern
 - 🌙 **Dark/Light Mode** – Includes a theme color switcher for better user experience.
 - 🧾 **Resume Sections** – Includes About Me, Skills, Projects, Education, and Contact.
 - 🔄 **Smooth Transitions** – Subtle animations for modern feel.
-- 💼 **Downloadable Resume** – Option to download PDF resume.
-
----
 
 ---
 
